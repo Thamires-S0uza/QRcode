@@ -1,0 +1,22 @@
+body{
+    background-color: hsl(212,45%,89%);
+    font-family: 'Poppins', sans-serif;
+}
+.card{
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.form{
+    width: 380px;
+    margin: auto;
+    padding-top: 70px;
+}
+.imgQRcode{
+    height: 340px;
+    border-radius: 15px;
+}
+.card-group{
+    text-align: center;
+}
